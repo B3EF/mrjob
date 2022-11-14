@@ -11,4 +11,4 @@ smartypants==1.8.6
 
 # optional: requirements for livereload
 livereload==1.0.1
-tornado==3.1.1
+tornado==5.1
